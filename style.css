@@ -107,7 +107,7 @@ body{
     display: grid;
     grid-template-columns: repeat(7,110px);
     grid-column-gap: 20px;
-    border: 3px solid lightgray;
+    /* border: 3px solid lightgray; */
     padding: 20px;
     
 }
